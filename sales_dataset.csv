@@ -1,17 +1,17 @@
 ORDER #,QUANTITY_ORDERED,PRICE,DISCOUNT,ORDER_NUMBER,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCT,?CUSTOMER NAME,PHONE,ADDRESS,CITY_COUNTRY,STATE,DEAL_SIZE,LAST NAME CONTACT,FIRST NAME CONTACT
-10107,30,957,19,2,Shipped,1,2,2003,Motorcycles,Land of Toys Inc,2125557818,,"NYC, USA",NY,Small,Yu,Kwai
-10121,34,8135,13,5,Shipped,2,5,2003,Motorcycles,Reims Collectables,26471555,,"Reims, France",,Small,Henriot,Paul
-10134,41,9474,No discount,2,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,+33 1 46 62 7555,,"Paris, France",,Medium,Da Cunha,Daniel
-10145,45,8326,No discount,6,Shipped,3,8,2003,Motorcycles,Toys4GrownUpscom,6265557265,,"Pasadena, USA",CA,Medium,Young,Julie
+10107,30,957,19,2,Shipped,1,2,2003?,Motorcycles,Land of Toys Inc,2125557818,,"NYC, USA",NY,Small,Yu,Kwai
+10121,34,8135,13,5,Shipped,2,5,2003?,Motorcycles,Reims Collectables,26471555,,"Reims, France",,Small,Henriot,Paul
+10134,41,9474,No discount,2,Shipped,3,7,2003?,Motorcycles,Lyon Souveniers,+33 1 46 62 7555,,"Paris, France",,Medium,Da Cunha,Daniel
+10145,45,8326,No discount,6,Shipped,3,8,2003-5,Motorcycles,Toys4GrownUpscom,6265557265,,"Pasadena, USA",CA,Medium,Young,Julie
 10159,49,100,No discount,14,Shipped,4,10,2003,Motorcycles,Corporate Gift Ideas Co,6505551386,,"San Francisco, USA",CA,Medium,Brown,Julie
-10168,36,9666,,1,Shipped,4,10,2003,Motorcycles,Technics Stores Inc,6505556809,,"Burlingame, USA",CA,Medium,Hirano,Juri
+10168,36,9666,,1,Shipped,4,10,2003-2010,Motorcycles,Technics Stores Inc,6505556809,,"Burlingame, USA",CA,Medium,Hirano,Juri
 10180,29,8613,,9,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,20161555,,"Lille, France",,Small,Rance,Martine
 10188,48,100,,1,Shipped,4,11,2003,Motorcycles,Herkku Gifts,+47 2267 3215,,"Bergen, Norway",,Medium,Oeztan,Veysel
 10201,22,9857,,2,Shipped,4,12,2003,Motorcycles,Mini Wheels Co,6505555787,,"San Francisco, USA",CA,Small,Murphy,Julie
 10211,41,100,,14,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,1 47556555,,"Paris, France",,Medium,Perrier,Dominique
 10223,37,100,,1,Shipped,1,2,2004,Motorcycles,Australian Collectors Co,03 9520 4555,Level 3,"Melbourne, Australia",Victoria,Medium,Ferguson,Peter
 10237,23,100,No discount,7,Shipped,2,4,2004,Motorcycles,Vitachrome Inc,2125551500,Suite 101,"NYC, USA",NY,Small,Frick,Michael
-10251,28,100,21,2,Shipped,2,5,2004,Motorcycles,Tekni Collectables Inc,2015559350,,"Newark, USA",NJ,Medium,Brown,William
+10251,28,100,21,2,Shipped,2,5,2004?,Motorcycles,Tekni Collectables Inc,2015559350,,"Newark, USA",NJ,Medium,Brown,William
 10263,34,100,25,2,Shipped,2,6,2004,Motorcycles,Gift Depot Inc,2035552570,,"Bridgewater, USA",CT,Medium,King,Julie
 10275,45,9283,18,1,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,40678555,,"Nantes, France",,Medium,Labrune,Janine
 10285,36,100,14,6,Shipped,3,8,2004,Motorcycles,"Marta""s Replicas Co",6175558555,,"Cambridge, USA",MA,Medium,Hernandez,Marta
@@ -36,7 +36,7 @@ ORDER #,QUANTITY_ORDERED,PRICE,DISCOUNT,ORDER_NUMBER,STATUS,QTR_ID,MONTH_ID,YEAR
 10194,42,100,22,11,Shipped,4,11,2003,Classic Cars,Saveley & Henriot Co,78325555,,"Lyon, France",,Large,Saveley,Mary
 10206,47,100,8,6,Shipped,4,12,2003,Classic Cars,Canadian Gift Exchange Network,604 5553392,,"Vancouver, Canada",BC,Large,Tannamuri,Yoshi
 10215,35,100,25,3,Shipped,1,1,2004,Classic Cars,West Coast Collectables Co,3105553722,,"Burbank, USA",CA,Medium,Thompson,Steve
-10228,29,100,17,2,Shipped,1,3,2004,Classic Cars,Cambridge Collectables Co,6175555555,,"Cambridge, USA",MA,Medium,Tseng,Kyung
+10228,29,100,17,2,Shipped,1,3,2004?,Classic Cars,Cambridge Collectables Co,6175555555,,"Cambridge, USA",MA,Medium,Tseng,Kyung
 10245,34,100,27,9,Shipped,2,5,2004,Classic Cars,Super Scale Inc,2035559545,,"New Haven, USA",CT,Medium,Murphy,Leslie
 10258,32,100,24,6,Shipped,2,6,2004,Classic Cars,Tokyo Collectables Ltd,+81 3 3584 0555,,"Minatoku, Japan",Tokyo,Large,Shimamura,Akiko
 10270,21,100,23,9,Shipped,3,7,2004,Classic Cars,Souveniers And Things Co,+61 2 9495 8555,Level 6,"Chatswood, Australia",NSW,Medium,Huxley,Adrian
