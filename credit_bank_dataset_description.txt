@@ -1,0 +1,76 @@
+% Description dataset.
+% 
+% 
+% Attribute 1:  (qualitative)
+% 	       Status of existing checking account
+% 
+% Attribute 2:  (numerical)
+% 	      Duration in month
+% 
+% Attribute 3:  (qualitative)
+% 	      Credit history
+% 
+% Attribute 4:  (qualitative)
+% 	      Purpose
+% 	      A40 : car (new)
+% 	      A41 : car (used)
+% 	      A42 : furniture/equipment
+% 	      A43 : radio/television
+% 	      A44 : domestic appliances
+% 	      A45 : repairs
+% 	      A46 : education
+% 	      A47 : (vacation - does not exist?)
+% 	      A48 : retraining
+% 	      A49 : business
+% 	      A410 : others
+% 
+% Attribute 5:  (numerical)
+% 	      Credit amount
+% 
+% Attibute 6:  (qualitative)
+% 	      Savings account/bonds
+% 
+% Attribute 7:  (qualitative)
+% 	      Present employment since
+% 
+% Attribute 8:  (numerical)
+% 	      Installment rate in percentage of disposable income
+% 
+% Attribute 9:  (qualitative)
+% 	      Personal status and sex
+%
+% Attribute 10: (qualitative)
+% 	      Other debtors / guarantors
+% 
+% Attribute 11: (numerical)
+% 	      Present residence since
+% 
+% Attribute 12: (qualitative)
+% 	      Property
+% 
+% Attribute 13: (numerical)
+% 	      Age in years
+% 
+% Attribute 14: (qualitative)
+% 	      Other installment plans 
+% 
+% Attribute 15: (qualitative)
+% 	      Housing
+% 
+% Attribute 16: (numerical)
+%               Number of existing credits at this bank
+% 
+% Attribute 17: (qualitative)
+% 	      Job
+% 
+% Attribute 18: (numerical)
+% 	      Number of people being liable to provide maintenance for
+% 
+% Attribute 19: (qualitative)
+% 	      Telephone
+% 
+% Attribute 20: (qualitative)
+% 	      foreign worker
+%
+% Class
+% (1 = Good,  2 = Bad)
